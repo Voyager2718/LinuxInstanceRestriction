@@ -1,3 +1,8 @@
+/**
+  * Original address: https://github.com/Voyager2718/LinuxInstanceRestriction
+  * License: GPL v2.0
+  */
+
 #include "instance_restriction.h"
 
 bool ReachedMaximumInstance()
