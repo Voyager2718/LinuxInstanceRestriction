@@ -1,3 +1,8 @@
+/**
+  * Original address: https://github.com/Voyager2718/LinuxInstanceRestriction
+  * License: GPL v2.0
+  */
+
 #ifndef INSTANCE_RESTRICTION
 #define INSTANCE_RESTRICTION
 
